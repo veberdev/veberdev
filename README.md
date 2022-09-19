@@ -16,6 +16,8 @@
 
 <p align="center">
     <a href="https://github.com/veberdev/clone_airbnb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=veberdev&repo=clone_airbnb&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme" width="400"/></a>
+        <a href="https://github.com/veberdev/clone_airbnb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=veberdev&repo=clone_airbnb&theme=tokyonight&show_icons=false&hide_border=true" alt="Readme Card" width="400"/></a>
+
 </p>
 
 
