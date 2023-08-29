@@ -1,7 +1,7 @@
 ### Hi there, i'm Weslley 👋
 
 - 🌱 I’m currently learning: Ruby on Rails
-- :bee: I'm a Jedi on jedis https://www.jedis.com.br
+- :bee: Ruby on Rails developer on jedis https://www.jedis.com.br alocated at Om30
 - 📫 How to reach me: Dm on linkedin
 - :earth_americas: Location: Curitiba, Brazil
 - :computer: Web developer
